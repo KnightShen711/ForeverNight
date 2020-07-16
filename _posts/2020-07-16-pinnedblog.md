@@ -5,7 +5,8 @@ date: 2020-07-16
 Author: 沈叶子
 categories: 
 tags: []
-comments: true
+comments: false
+pinned: true
 --- 
 
 其实我很不喜欢预警这一套，但我个人的喜好风格也的确是不太大众，所以就在置顶中进行一下简单的介绍，做不到不喜欢就**默默**关掉页面的人还是干脆不要看了，**未成年请直接关掉**。
