@@ -76,11 +76,11 @@ footer-text: Copyright (c) 2020 沈叶子
 #disqus: loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-#gitalk:
-#  clientID: 
-#  clientSecret: 
-#  repo: 
-#  owner: 
+gitalk:
+  clientID: d7324e27ce973e63d9c1
+  clientSecret: dc47534830668ef04fb69c9be50a563a303d6385
+  repo: ForeverNight
+  owner: KnightShen711
 
 # 输入Google Analytics web tracking code
 google_analytics:
