@@ -7,5 +7,6 @@ categories:
 tags: [test]
 comments: false
 pinned: true
+toc: true
 --- 
 测试
