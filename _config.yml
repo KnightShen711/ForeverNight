@@ -83,7 +83,7 @@ gitalk:
   owner: KnightShen711
 
 # 输入Google Analytics web tracking code
-google_analytics:
+google_analytics: UA-172914562-1
 
 
 #
