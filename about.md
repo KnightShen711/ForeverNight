@@ -17,3 +17,6 @@ permalink: /about/
 友情链接：
 
 [一把甘蔗渣](https://kamadhatu.github.io/sanjingjiuhuang/)
+
+[愛唄](https://aiuta264.github.io/aiuta/)
+
