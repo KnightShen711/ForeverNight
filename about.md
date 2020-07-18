@@ -11,3 +11,9 @@ permalink: /about/
 2020年，简体中文网络，ao3被屏蔽，lofter大规模审核，简体中文自娱自乐者被迫再次搬家
 
 无根浮萍沈叶子 2020-07-16
+
+---
+
+友情链接：
+
+[一把甘蔗渣](https://kamadhatu.github.io/sanjingjiuhuang/)
