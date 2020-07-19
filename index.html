@@ -8,7 +8,7 @@ layout: default
 
 <div class="posts">
   
-  {% for post in site.categories.public %}
+  {% for post in site.posts %}
     {% if post.pinned==true %}
       <article class="post pinned">
         <h1>
@@ -49,8 +49,9 @@ layout: default
     {% endif %}
   {% endfor %}
   
-  {% for post in site.categories.public %}
+  {% for post in paginator.posts %}
     {% unless post.pinned %}
+    {% if post.hide != true %}
     <article class="post">
       <h1>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -83,6 +84,7 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+    {% endif %}
     {% endunless %}
   {% endfor %}
 </div>
