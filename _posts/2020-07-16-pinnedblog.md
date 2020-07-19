@@ -3,7 +3,7 @@ layout: post
 title: 置顶 总结和预警
 date: 2020-07-16
 Author: 沈叶子
-categories: public
+categories: 
 tags: []
 comments: true
 pinned: true
@@ -19,7 +19,7 @@ pinned: true
 
 ## 古剑奇谭
 ### 谢沈
-* 揽月入怀（1~5） （**慎入**）
+* 揽月入怀（1~5） （**慎入**）(*暂时隐藏*)
 
 ## 银河英雄传说
 ### 莱杨
@@ -28,7 +28,7 @@ pinned: true
 * 春风秋雨（片段）
 
 ## 原耽
-* 扑火 （1~11+番外1）（**慎入**）
+* 扑火 （1~11+番外1）（**慎入**）(*暂时隐藏*)
 
 
 

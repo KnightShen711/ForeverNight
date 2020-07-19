@@ -3,7 +3,7 @@ layout: post
 title: 揽月入怀 2 血池迷梦
 date: 2020-03-16
 Author: 沈叶子
-categories: private
+categories: 
 tags: [古剑, 谢沈, 同人]
 hide: true
 --- 
