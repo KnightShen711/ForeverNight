@@ -3,7 +3,7 @@ layout: post
 title: 置顶 总结和预警
 date: 2020-07-16
 Author: 沈叶子
-categories: 
+categories: public
 tags: []
 comments: true
 pinned: true

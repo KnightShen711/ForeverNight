@@ -3,7 +3,7 @@ layout: post
 title: 穿越漩涡 2 艾尔法西尔重逢
 date: 2018-06-01
 Author: 沈叶子
-categories: 
+categories: public
 tags: [银英, 莱杨, 同人]
 --- 
 

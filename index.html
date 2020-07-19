@@ -8,7 +8,7 @@ layout: default
 
 <div class="posts">
   
-  {% for post in site.posts %}
+  {% for post in site.categories.public %}
     {% if post.pinned==true %}
       <article class="post pinned">
         <h1>
@@ -49,7 +49,7 @@ layout: default
     {% endif %}
   {% endfor %}
   
-  {% for post in paginator.posts %}
+  {% for post in paginator.categories.public %}
     {% unless post.pinned %}
     <article class="post">
       <h1>
