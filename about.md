@@ -20,3 +20,5 @@ permalink: /about/
 
 [愛唄](https://aiuta264.github.io/aiuta/)
 
+[流放至自由地](https://ceciliasue.github.io/)
+
